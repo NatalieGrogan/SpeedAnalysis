@@ -1,0 +1,3103 @@
+Thursday, July 21, 2022
+
+~/Projects/comparisons$ ./run-gc.sh abram captureAll 100; ./run-gc.sh longword captureAll 100; ./run-gc.sh  captureAll 100; 
+Commands:
+/Users/jennings/Packages/lua-5.4.3/src/lua ./lpeg/kjv-lpeg.lua run captureAll abram 100
+./libpexl/kjv-libpexl run captureAll abram 100
+./librosie/kjv-librosie run captureAll abram 100
+Benchmark 1: /Users/jennings/Packages/lua-5.4.3/src/lua ./lpeg/kjv-lpeg.lua run captureAll abram 100
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+  Time (mean ± σ):      7.455 s ±  0.408 s    [User: 7.435 s, System: 0.011 s]
+  Range (min … max):    7.227 s …  8.579 s    50 runs
+ 
+  Warning: Statistical outliers were detected. Consider re-running this benchmark on a quiet PC without any interferences from other programs. It might help to use the '--warmup' or '--prepare' options.
+ 
+Benchmark 2: ./libpexl/kjv-libpexl run captureAll abram 100
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+  Time (mean ± σ):      6.775 s ±  0.217 s    [User: 6.759 s, System: 0.008 s]
+  Range (min … max):    6.674 s …  7.873 s    50 runs
+ 
+  Warning: Statistical outliers were detected. Consider re-running this benchmark on a quiet PC without any interferences from other programs. It might help to use the '--warmup' or '--prepare' options.
+ 
+Benchmark 3: ./librosie/kjv-librosie run captureAll abram 100
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+  Time (mean ± σ):      8.401 s ±  0.015 s    [User: 8.376 s, System: 0.017 s]
+  Range (min … max):    8.378 s …  8.449 s    50 runs
+ 
+Summary
+  './libpexl/kjv-libpexl run captureAll abram 100' ran
+    1.10 ± 0.07 times faster than '/Users/jennings/Packages/lua-5.4.3/src/lua ./lpeg/kjv-lpeg.lua run captureAll abram 100'
+    1.24 ± 0.04 times faster than './librosie/kjv-librosie run captureAll abram 100'
+Wrote ./results/abram/abram-captureAll.json
+Commands:
+/Users/jennings/Packages/lua-5.4.3/src/lua ./lpeg/kjv-lpeg.lua run captureAll longword 100
+./libpexl/kjv-libpexl run captureAll longword 100
+./librosie/kjv-librosie run captureAll longword 100
+Benchmark 1: /Users/jennings/Packages/lua-5.4.3/src/lua ./lpeg/kjv-lpeg.lua run captureAll longword 100
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+  Time (mean ± σ):      6.339 s ±  0.015 s    [User: 6.321 s, System: 0.010 s]
+  Range (min … max):    6.323 s …  6.410 s    50 runs
+ 
+Benchmark 2: ./libpexl/kjv-libpexl run captureAll longword 100
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+  Time (mean ± σ):      5.987 s ±  0.138 s    [User: 5.971 s, System: 0.008 s]
+  Range (min … max):    5.926 s …  6.835 s    50 runs
+ 
+  Warning: Statistical outliers were detected. Consider re-running this benchmark on a quiet PC without any interferences from other programs. It might help to use the '--warmup' or '--prepare' options.
+ 
+Benchmark 3: ./librosie/kjv-librosie run captureAll longword 100
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'longword'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+  Time (mean ± σ):      7.546 s ±  0.084 s    [User: 7.520 s, System: 0.017 s]
+  Range (min … max):    7.466 s …  7.694 s    50 runs
+ 
+Summary
+  './libpexl/kjv-libpexl run captureAll longword 100' ran
+    1.06 ± 0.02 times faster than '/Users/jennings/Packages/lua-5.4.3/src/lua ./lpeg/kjv-lpeg.lua run captureAll longword 100'
+    1.26 ± 0.03 times faster than './librosie/kjv-librosie run captureAll longword 100'
+Wrote ./results/longword/longword-captureAll.json
+Usage: pattern action reps
+Where pattern is one of: abram longword smallword omega the tubalcain psalm
+And action is either search, capture, searchAll or captureAll
+And reps is a number, like 1000
+~/Projects/comparisons$ ./run-gc.sh tubalcain captureAll 100; 
+Commands:
+/Users/jennings/Packages/lua-5.4.3/src/lua ./lpeg/kjv-lpeg.lua run captureAll tubalcain 100
+./libpexl/kjv-libpexl run captureAll tubalcain 100
+./librosie/kjv-librosie run captureAll tubalcain 100
+Benchmark 1: /Users/jennings/Packages/lua-5.4.3/src/lua ./lpeg/kjv-lpeg.lua run captureAll tubalcain 100
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+  Time (mean ± σ):      2.135 s ±  0.004 s    [User: 2.123 s, System: 0.007 s]
+  Range (min … max):    2.132 s …  2.152 s    50 runs
+ 
+  Warning: Statistical outliers were detected. Consider re-running this benchmark on a quiet PC without any interferences from other programs. It might help to use the '--warmup' or '--prepare' options.
+ 
+Benchmark 2: ./libpexl/kjv-libpexl run captureAll tubalcain 100
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+  Time (mean ± σ):      2.286 s ±  0.003 s    [User: 2.277 s, System: 0.005 s]
+  Range (min … max):    2.283 s …  2.298 s    50 runs
+ 
+  Warning: Statistical outliers were detected. Consider re-running this benchmark on a quiet PC without any interferences from other programs. It might help to use the '--warmup' or '--prepare' options.
+ 
+Benchmark 3: ./librosie/kjv-librosie run captureAll tubalcain 100
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+Found rosie_match2
+Running 100 iterations of test 'tubalcain'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+  Time (mean ± σ):      2.862 s ±  0.007 s    [User: 2.843 s, System: 0.014 s]
+  Range (min … max):    2.849 s …  2.882 s    50 runs
+ 
+Summary
+  '/Users/jennings/Packages/lua-5.4.3/src/lua ./lpeg/kjv-lpeg.lua run captureAll tubalcain 100' ran
+    1.07 ± 0.00 times faster than './libpexl/kjv-libpexl run captureAll tubalcain 100'
+    1.34 ± 0.00 times faster than './librosie/kjv-librosie run captureAll tubalcain 100'
+Wrote ./results/tubalcain/tubalcain-captureAll.json
+~/Projects/comparisons$ 
