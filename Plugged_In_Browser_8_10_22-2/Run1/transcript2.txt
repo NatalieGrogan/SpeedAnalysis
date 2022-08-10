@@ -1,0 +1,8059 @@
+Wrote ./results/abram/abram-captureAll-27379.json
+Using pmset and GC detection.  Only abram-lpeg will run.
+No file suffix supplied. Using -4258.
+Commands:
+/Users/jennings/Packages/lua-5.4.3/src/lua ./lpeg/kjv-lpeg.lua run captureAll abram 100
+Note: No thermal warning level has been recorded
+Note: No performance warning level has been recorded
+2022-08-10 16:05:44 -0400 CPU Power notify
+	CPU_Scheduler_Limit 	= 100
+	CPU_Available_CPUs 	= 4
+	CPU_Speed_Limit 	= 100
+Benchmark 1: /Users/jennings/Packages/lua-5.4.3/src/lua ./lpeg/kjv-lpeg.lua run captureAll abram 100
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+GC A
+GC A
+GC A
+Running 100 iterations of test 'abram'
+Input file: data/kjv10.txt
+Input size: 4333040 bytes
+Done.
+
+  Time (mean ± σ):      7.284 s ±  0.220 s    [User: 7.268 s, System: 0.011 s]
+  Range (min … max):    7.191 s …  8.300 s    1000 runs
+ 
+  Warning: Statistical outliers were detected. Consider re-running this benchmark on a quiet PC without any interferences from other programs. It might help to use the '--warmup' or '--prepare' options.
+ 
+Wrote ./results/abram/abram-captureAll-4258.json
+~/Projects/comparisons$ 
